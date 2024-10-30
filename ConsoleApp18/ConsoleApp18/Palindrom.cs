@@ -19,7 +19,6 @@
                 {
                     Console.WriteLine("GIven string is Palindrome");
                 }
-            
             }
             else
             {
