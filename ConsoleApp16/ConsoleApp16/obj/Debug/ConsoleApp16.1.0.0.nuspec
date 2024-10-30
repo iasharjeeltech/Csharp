@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>ConsoleApp16</id>
+    <version>1.0.0</version>
+    <authors>ConsoleApp16</authors>
+    <description>Package Description</description>
+    <repository type="git" />
+    <dependencies>
+      <group targetFramework="net8.0">
+        <dependency id="MyClassLibrary" version="1.0.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="D:\DotNet\ConsoleApp16\ConsoleApp16\bin\Debug\net8.0\ConsoleApp16.runtimeconfig.json" target="lib\net8.0\ConsoleApp16.runtimeconfig.json" />
+    <file src="D:\DotNet\ConsoleApp16\ConsoleApp16\bin\Debug\net8.0\ConsoleApp16.dll" target="lib\net8.0\ConsoleApp16.dll" />
+  </files>
+</package>

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DotNet\\if else\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F2CDFD10-7F94-44BC-88B0-2E697F7945E9}|if else\\if else.csproj|d:\\dotnet\\if else\\if else\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2CDFD10-7F94-44BC-88B0-2E697F7945E9}|if else\\if else.csproj|solutionrelative:if else\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DotNet\\if else\\if else\\Program.cs",
+              "RelativeDocumentMoniker": "if else\\Program.cs",
+              "ToolTip": "D:\\DotNet\\if else\\if else\\Program.cs",
+              "RelativeToolTip": "if else\\Program.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAnwHEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T02:55:48.443Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

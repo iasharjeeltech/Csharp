@@ -1,0 +1,14 @@
+D:\DotNet\ConsoleApp17\ConsoleApp17\bin\Debug\net8.0\ConsoleApp17.exe
+D:\DotNet\ConsoleApp17\ConsoleApp17\bin\Debug\net8.0\ConsoleApp17.deps.json
+D:\DotNet\ConsoleApp17\ConsoleApp17\bin\Debug\net8.0\ConsoleApp17.runtimeconfig.json
+D:\DotNet\ConsoleApp17\ConsoleApp17\bin\Debug\net8.0\ConsoleApp17.dll
+D:\DotNet\ConsoleApp17\ConsoleApp17\bin\Debug\net8.0\ConsoleApp17.pdb
+D:\DotNet\ConsoleApp17\ConsoleApp17\obj\Debug\net8.0\ConsoleApp17.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNet\ConsoleApp17\ConsoleApp17\obj\Debug\net8.0\ConsoleApp17.AssemblyInfoInputs.cache
+D:\DotNet\ConsoleApp17\ConsoleApp17\obj\Debug\net8.0\ConsoleApp17.AssemblyInfo.cs
+D:\DotNet\ConsoleApp17\ConsoleApp17\obj\Debug\net8.0\ConsoleApp17.csproj.CoreCompileInputs.cache
+D:\DotNet\ConsoleApp17\ConsoleApp17\obj\Debug\net8.0\ConsoleApp17.dll
+D:\DotNet\ConsoleApp17\ConsoleApp17\obj\Debug\net8.0\refint\ConsoleApp17.dll
+D:\DotNet\ConsoleApp17\ConsoleApp17\obj\Debug\net8.0\ConsoleApp17.pdb
+D:\DotNet\ConsoleApp17\ConsoleApp17\obj\Debug\net8.0\ConsoleApp17.genruntimeconfig.cache
+D:\DotNet\ConsoleApp17\ConsoleApp17\obj\Debug\net8.0\ref\ConsoleApp17.dll

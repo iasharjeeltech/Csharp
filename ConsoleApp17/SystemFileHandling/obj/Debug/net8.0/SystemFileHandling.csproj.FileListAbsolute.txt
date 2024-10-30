@@ -1,0 +1,14 @@
+D:\DotNet\ConsoleApp17\SystemFileHandling\bin\Debug\net8.0\SystemFileHandling.exe
+D:\DotNet\ConsoleApp17\SystemFileHandling\bin\Debug\net8.0\SystemFileHandling.deps.json
+D:\DotNet\ConsoleApp17\SystemFileHandling\bin\Debug\net8.0\SystemFileHandling.runtimeconfig.json
+D:\DotNet\ConsoleApp17\SystemFileHandling\bin\Debug\net8.0\SystemFileHandling.dll
+D:\DotNet\ConsoleApp17\SystemFileHandling\bin\Debug\net8.0\SystemFileHandling.pdb
+D:\DotNet\ConsoleApp17\SystemFileHandling\obj\Debug\net8.0\SystemFileHandling.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNet\ConsoleApp17\SystemFileHandling\obj\Debug\net8.0\SystemFileHandling.AssemblyInfoInputs.cache
+D:\DotNet\ConsoleApp17\SystemFileHandling\obj\Debug\net8.0\SystemFileHandling.AssemblyInfo.cs
+D:\DotNet\ConsoleApp17\SystemFileHandling\obj\Debug\net8.0\SystemFileHandling.csproj.CoreCompileInputs.cache
+D:\DotNet\ConsoleApp17\SystemFileHandling\obj\Debug\net8.0\SystemFileHandling.dll
+D:\DotNet\ConsoleApp17\SystemFileHandling\obj\Debug\net8.0\refint\SystemFileHandling.dll
+D:\DotNet\ConsoleApp17\SystemFileHandling\obj\Debug\net8.0\SystemFileHandling.pdb
+D:\DotNet\ConsoleApp17\SystemFileHandling\obj\Debug\net8.0\SystemFileHandling.genruntimeconfig.cache
+D:\DotNet\ConsoleApp17\SystemFileHandling\obj\Debug\net8.0\ref\SystemFileHandling.dll

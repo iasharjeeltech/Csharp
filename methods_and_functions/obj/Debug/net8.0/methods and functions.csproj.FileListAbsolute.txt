@@ -1,0 +1,14 @@
+D:\DotNet\methods and functions\bin\Debug\net8.0\methods and functions.exe
+D:\DotNet\methods and functions\bin\Debug\net8.0\methods and functions.deps.json
+D:\DotNet\methods and functions\bin\Debug\net8.0\methods and functions.runtimeconfig.json
+D:\DotNet\methods and functions\bin\Debug\net8.0\methods and functions.dll
+D:\DotNet\methods and functions\bin\Debug\net8.0\methods and functions.pdb
+D:\DotNet\methods and functions\obj\Debug\net8.0\methods and functions.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNet\methods and functions\obj\Debug\net8.0\methods and functions.AssemblyInfoInputs.cache
+D:\DotNet\methods and functions\obj\Debug\net8.0\methods and functions.AssemblyInfo.cs
+D:\DotNet\methods and functions\obj\Debug\net8.0\methods and functions.csproj.CoreCompileInputs.cache
+D:\DotNet\methods and functions\obj\Debug\net8.0\methods and functions.dll
+D:\DotNet\methods and functions\obj\Debug\net8.0\refint\methods and functions.dll
+D:\DotNet\methods and functions\obj\Debug\net8.0\methods and functions.pdb
+D:\DotNet\methods and functions\obj\Debug\net8.0\methods and functions.genruntimeconfig.cache
+D:\DotNet\methods and functions\obj\Debug\net8.0\ref\methods and functions.dll
